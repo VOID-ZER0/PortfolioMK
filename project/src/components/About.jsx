@@ -78,7 +78,7 @@ const About = () => {
 
 
 
-          // mobile optimized about section given by gpt 
+         
 
 
           <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-8 md:p-10 shadow-xl border border-gray-700 max-w-2xl mx-auto">
