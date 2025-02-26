@@ -79,15 +79,21 @@ const About = () => {
 
 
          
-
+{/* 
 
           <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-8 md:p-10 shadow-xl border border-gray-700 max-w-2xl mx-auto">
   <p className="text-lg md:text-xl text-gray-300 leading-normal hyphens: auto word-break: break-word overflow-wrap: break-word text-align: justify text-justify">
     Computer Science Engineer with expertise in coding. Proficient in software development, I focus on creating out-of-the-box solutions. As an active hackathon participant, I excel at tackling complex challenges and developing innovative projects that emphasize security and efficiency while maintaining a keen interest in AI and blockchain technologies. Committed to continuous learning, I strive to advance my skills across various technology domains.
   </p>
 </div>
+ */}
 
 
+        <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 md:p-10 shadow-xl border border-gray-700 max-w-2xl mx-auto">
+  <p className="text-lg md:text-xl text-gray-300 leading-relaxed md:leading-normal text-left md:text-justify break-words hyphens-auto">
+    Computer Science Engineer with expertise in coding. Proficient in software development, I focus on creating out-of-the-box solutions. As an active hackathon participant, I excel at tackling complex challenges and developing innovative projects that emphasize security and efficiency while maintaining a keen interest in AI and blockchain technologies. Committed to continuous learning, I strive to advance my skills across various technology domains.
+  </p>
+</div>
 
 
 
