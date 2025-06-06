@@ -41,8 +41,8 @@ const Contact = () => {
     {
       name: 'GitHub',
       icon: <Github size={24} />,
-      href: 'https://github.com/M0RTALx',
-      displayText: 'M0RTALx',
+      href: 'https://github.com/VOID-ZER0',
+      displayText: 'VOID-ZER0',
       color: 'from-purple-700 to-black-500'
     },
 
