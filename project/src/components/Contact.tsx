@@ -49,8 +49,8 @@ const Contact: React.FC = () => {
     {
       name: 'Github',
       icon: <Github size={24} />,
-      href: 'https://github.com/M0RTALx',
-      displayText: 'M0RTALx',
+      href: 'https://github.com/VOID-ZER0',
+      displayText: 'VOID-ZER0',
       color: 'from-indigo-500 to-purple-500'
     }
   ];
