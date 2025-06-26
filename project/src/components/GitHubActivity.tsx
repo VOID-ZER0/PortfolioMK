@@ -122,7 +122,7 @@ import React from 'react';
 import { Github, ExternalLink, GitCommit } from 'lucide-react';
 
 const GitHubActivity: React.FC = () => {
-  const githubUsername = 'M0RTALx';
+  const githubUsername = 'VOID-ZER0';
   const githubProfileUrl = `https://github.com/${githubUsername}`;
   const githubReposUrl = `https://github.com/${githubUsername}?tab=repositories`;
   const githubForksUrl = `https://github.com/${githubUsername}?tab=repositories&q=&type=fork`;
