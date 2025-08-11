@@ -25,27 +25,27 @@ const Contact: React.FC = () => {
       displayText: 'Malay Khant',
       color: 'from-blue-600 to-blue-800'
     },
-    {
-      name: 'Twitter',
-      icon: <Twitter size={24} />,
-      href: 'https://x.com/M0RTAL_10?t=sg13EtWoYJREq8O3WrfrZw&s=09',
-      displayText: '@M0RTAL_10',
-      color: 'from-blue-400 to-blue-600'
-    },
-    {
-      name: 'Instagram',
-      icon: <Instagram size={24} />,
-      href: 'https://www.instagram.com/malay_khant?igsh=MXhqbDZwNHFoZXpsMA==',
-      displayText: '@malay_khant',
-      color: 'from-purple-500 to-pink-500'
-    },
-    {
-      name: 'Discord',
-      icon: <MessageCircle size={24} />,
-      href: 'https://discord.com/users/mortal.10',
-      displayText: '@mortal.10',
-      color: 'from-indigo-500 to-purple-500'
-    },
+    // {
+    //   name: 'Twitter',
+    //   icon: <Twitter size={24} />,
+    //   href: 'https://x.com/M0RTAL_10?t=sg13EtWoYJREq8O3WrfrZw&s=09',
+    //   displayText: '@M0RTAL_10',
+    //   color: 'from-blue-400 to-blue-600'
+    // },
+    // {
+    //   name: 'Instagram',
+    //   icon: <Instagram size={24} />,
+    //   href: 'https://www.instagram.com/malay_khant?igsh=MXhqbDZwNHFoZXpsMA==',
+    //   displayText: '@malay_khant',
+    //   color: 'from-purple-500 to-pink-500'
+    // },
+    // {
+    //   name: 'Discord',
+    //   icon: <MessageCircle size={24} />,
+    //   href: 'https://discord.com/users/mortal.10',
+    //   displayText: '@mortal.10',
+    //   color: 'from-indigo-500 to-purple-500'
+    // },
     {
       name: 'Github',
       icon: <Github size={24} />,
